@@ -1,0 +1,12 @@
+﻿<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="651a0520-74ae-45b7-acaf-9bf5bef999d2" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="mAdcOW.AllowFraming.dll" DeploymentTarget="GlobalAssemblyCache" >
+      <SafeControls>
+        <SafeControl Assembly="mAdcOW.AllowFraming, Version=1.0.0.0, Culture=neutral, PublicKeyToken=7115fba4757a5a6d" Namespace="mAdcOW.AllowFraming" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="mAdcOW.AllowFraming_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

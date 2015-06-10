@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="651a0520-74ae-45b7-acaf-9bf5bef999d2" solutionId="651a0520-74ae-45b7-acaf-9bf5bef999d2" resetWebServer="false" sharePointProductVersion="15.0" name="mAdcOW.AllowFraming" isDesignerEnabled="false" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="c4c3bb44-c801-4038-85ce-3d37bfeec4c6" />
+  </features>
+</package>
